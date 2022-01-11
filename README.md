@@ -1,1 +1,2 @@
 # Hand_wrriten_Character_Classification
+A supervised learning based classification system designed using most renowned dataset called MNIST containing 70,000+ hand-written images of numbers. The binary classifier is trained and measured for performance using different methodologies like Cross -Fold Validation,Confusion Matrix along with different parameter like precision, recall.Visualization of precision vs recall using the ROC curve. Scikit learn, matplotlib, numpy are the core dependencies in the project. 
